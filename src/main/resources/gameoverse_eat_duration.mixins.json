@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "net.gameoverse.eatduration.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"ItemMixin",
+		"ItemStackMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
